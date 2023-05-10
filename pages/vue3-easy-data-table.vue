@@ -46,8 +46,6 @@
 import EasyDataTable from 'vue3-easy-data-table'
 import 'vue3-easy-data-table/dist/style.css'
 import type { Header, Item, ClickRowArgument } from 'vue3-easy-data-table'
-import EasyDataScore from '~/component/EasyDataScore.vue'
-import EasyDataFilterOpition from '~/component/EasyDataFilterOpition.vue'
 
 const headers: Header[] = [
   { text: 'PLAYER', value: 'player', fixed: true },

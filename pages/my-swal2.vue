@@ -12,6 +12,7 @@ const swalFunction = () => {
 
     //Setting Confirm button
     confirmButtonText: 'Save',
+    reverseButtons: true,
 
     //Setting Deny button
     showDenyButton: true,
